@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kevincarlgiii/dental-sched-app/static/css/main.9732686b.css",
+    "main.js": "/kevincarlgiii/dental-sched-app/static/js/main.13018fb9.js",
+    "static/js/453.4021117b.chunk.js": "/kevincarlgiii/dental-sched-app/static/js/453.4021117b.chunk.js",
+    "index.html": "/kevincarlgiii/dental-sched-app/index.html",
+    "main.9732686b.css.map": "/kevincarlgiii/dental-sched-app/static/css/main.9732686b.css.map",
+    "main.13018fb9.js.map": "/kevincarlgiii/dental-sched-app/static/js/main.13018fb9.js.map",
+    "453.4021117b.chunk.js.map": "/kevincarlgiii/dental-sched-app/static/js/453.4021117b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9732686b.css",
+    "static/js/main.13018fb9.js"
+  ]
+}
