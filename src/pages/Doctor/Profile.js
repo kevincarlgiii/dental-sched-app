@@ -34,7 +34,7 @@ function Profile() {
             dispatch(hideLoading());
             if (response.data.success) {
                 toast.success(response.data.message);
-                navigate('/');
+                navigate('/dental-sched-app');
             } else {
                 toast.error(response.data.message);
             }

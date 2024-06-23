@@ -18,7 +18,7 @@ function Login() {
             if (response.data.success) {
                 toast.success(response.data.message);
                 localStorage.setItem('token', response.data.data);
-                navigate('/');
+                navigate('/dental-sched-app');
             } else {
                 toast.error(response.data.message);
             }
